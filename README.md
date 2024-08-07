@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+The webapp will make use of the following webdev tools in order to create a server-client app that work well:
 
+Neon: a Postgres database that enables us to store and retrieve data easily within the application.
+Clerk: a complete authentication system that ensures only authenticated users can perform specific actions within the application.
+React-to-print: a package that allows us to convert and print React components as PDF files.
+Resend and React Email: for sending beautifully designed digital invoices directly to the customers' email.
 ## Getting Started
 
 First, run the development server:
